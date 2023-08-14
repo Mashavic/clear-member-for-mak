@@ -20,3 +20,5 @@ rm -rfv ~/Library/Application\ Support/Slack/Cache
 rm -rfv ~/Library/Application\ Support/Slack/Code\ Cache
 rm -rfv ~/Library/Application\ Support/Slack/Service\ Worker/CacheStorage
 rm -rfv ~/Library/Application\ Support/Code/User/workspaceStorage
+
+printf "\033c" #clear terminal window
